@@ -1,0 +1,11 @@
+# Ignore model files
+*.keras
+*.pkl
+
+# Additional ignores (optional)
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.ckpt
+__pycache__/
